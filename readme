@@ -1,0 +1,16 @@
+Se busca desarrollar una APP móvil en React Native que se encargue de exponer
+las noticias consultadas desde una API, estas noticias deben contener título,
+subtítulo, tipo, fecha de publicación, un botón que direccione a la web Url
+correspondiente a la noticia. Para ello debe usarse un API de https://newsapi.org/
+La aplicación debe implementar un infinite scroll para cargar más de 20 noticias.
+
+
+título,
+subtítulo,
+tipo,
+fecha de publicación
+url
+
+# instalaciones
+
+- Axios
